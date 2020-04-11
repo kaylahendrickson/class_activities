@@ -1,0 +1,33 @@
+
+
+nav {
+    background-color: grey;
+}
+.navIcon {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
+
+.sidebar {
+    float: left;
+    width: 30%;
+    height: 80vh;
+}
+
+.main-content {
+    float: right;
+    width: 69%;
+    height: 80vh;
+}
+
+.profile {
+    height: 30%;
+    width: 100%;
+}
+
+.stats {
+    height: 70%;
+    width: 100%;
+}
+
